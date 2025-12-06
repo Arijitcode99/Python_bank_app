@@ -75,30 +75,8 @@ while True:
 
     
     
-"""
-print("Welcome to Financial Planning !!!") # Heading
 
-print ("Simple Interest")
 
-print("Formula")
-
-print (" SI = (PXRXT)/100")
-
-p= float(input("Enter principle amount: "))
-r= float(input("Enter interest rate per year: "))
-t= float(input("Enter time in year: "))
-
-si= (p*r*t)/100
-
-a= p+si
-
-print("\n--- Simple Interest Summary ---")
-print(f"Principal: £{p:.2f}")
-print(f"Rate: {r}%")
-print(f"Time: {t} years")
-print(f"Simple Interest: £{si:.2f}")
-print(f"Total Amount: £{a:.2f}")
-"""
 
 
 
